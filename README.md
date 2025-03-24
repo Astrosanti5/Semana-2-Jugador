@@ -2,7 +2,7 @@
 
 Actividad
 
-Santiago Cardona Meneses
+Santiago Cardona Meneses,
 Jorge Valle 
 
 ¿Qué representa esta clase? ¿Qué información contiene? 
